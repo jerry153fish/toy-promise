@@ -12,6 +12,10 @@
   "keywords": [
     "Promise"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jerry153fish/toy-promise.git"
+  },
   "author": "Jerry Chen",
   "license": "ISC",
   "dependencies": {
